@@ -1,18 +1,25 @@
 # Online Tutor Hiring System
 
-<a href="https://ibb.co.com/XrWPsHvK"><img src="https://i.ibb.co.com/B5fJZkSQ/ezgif-com-animated-gif-maker-1.gif" alt="ezgif-com-animated-gif-maker-1" border="0"></a>
+<div align="center">
+  <a href="https://ibb.co.com/XrWPsHvK">
+    <img src="https://i.ibb.co.com/B5fJZkSQ/ezgif-com-animated-gif-maker-1.gif" alt="Project Demo" border="0">
+  </a>
+</div>
 
-# Getting Started
+<hr>
 
-## Prerequisites
+<h2>Getting Started</h2>
 
-1. Windows 7 / Windows 8 / Windows 10 / Windows 11
-2. Visual Studio 2016 up to 2026
-3. .NET Framework
+<h3>Prerequisites</h3>
+<ol>
+  <li>Windows 7 / Windows 8 / Windows 10 / Windows 11</li>
+  <li>Visual Studio 2016 up to 2026</li>
+  <li>.NET Framework</li>
+</ol>
 
----
+<hr>
 
-## Installing
+<h2>Installing</h2>
 
 <details>
   <summary><b>Clone / Download Zip</b></summary>
@@ -50,16 +57,22 @@
   Locate this file within the repository structure in your Solution Explorer.
 </details>
 
+<hr>
 
-## Modules
-Admin
-Guardian
-Teacher
+<h2>Modules</h2>
+<ul>
+  <li>Admin</li>
+  <li>Guardian</li>
+  <li>Teacher</li>
+</ul>
 
-## Built With
+<h2>Built With</h2>
+<ul>
+  <li><b>C#</b> - The language</li>
+  <li><b>Microsoft SQL</b> - Used Database</li>
+</ul>
 
-C# Language
-Microsoft SQL Database
+<hr>
 
 <section>
   <h2>Create a branch</h2>
@@ -73,14 +86,14 @@ Microsoft SQL Database
 <section>
   <h2>Authors</h2>
   <ul>
-    <li>Atiqul Islam Sakib</li>
+    <li><b>Atiqul Islam Sakib</b></li>
   </ul>
 </section>
 
 <section>
   <h2>Acknowledgments</h2>
   <ul>
-    Hat tip to anyone whose code was used. 
+    <li>Hat tip to anyone whose code was used.</li>
     <li>Comfortable UI.</li>
     <li>Best application for beginners.</li>
   </ul>
