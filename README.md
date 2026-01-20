@@ -49,7 +49,7 @@
 </details>
 
 <details>
-  <summary><b>Open DatabaseConnection.cs on RailwayEnquiryRepository</b></summary>
+  <summary><b>Open DatabaseConnection.cs on OnlineTutorHiringSystem Repository</b></summary>
   <br>
   Locate this file within the repository structure in your Solution Explorer.
 </details>
