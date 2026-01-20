@@ -12,6 +12,7 @@
   <li>Windows 7 / Windows 8 / Windows 10 / Windows 11</li>
   <li>Visual Studio 2016 up to 2026</li>
   <li>.NET Framework</li>
+  <li>Krypton Framework</li>
 </ol>
 
 <hr>
