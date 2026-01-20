@@ -1,7 +1,7 @@
 # Online Tutor Hiring System
 
 <div align="center">
-  <img src="https://i.ibb.co/B5fJZkSQ/ezgif-com-animated-gif-maker-1.gif" alt="Online Tutor Hiring System Demo" width="100%">
+  <img src="OnlineTutorHiringSystemgif.gif" alt="Project Demo Animation" width="100%">
 </div>
 <hr>
 
